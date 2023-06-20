@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - A program that prints
  *
  * Return: 0 All the time success
  */
-
 int main(void)
 {
 	printf("_putchar\n");
